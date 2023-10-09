@@ -18,3 +18,15 @@ nav > ul{
     display: flex;
 
 }
+nav li {
+    list-style: none;
+    margin-right: 50px;
+}
+nav a {
+    text-decoration: none;
+    color: #474747;
+}
+.btn-orange{
+    background-color: #FD6E0A;
+    border-radius: 5px;
+}
