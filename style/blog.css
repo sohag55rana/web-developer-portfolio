@@ -29,4 +29,6 @@ nav a {
 .btn-orange{
     background-color: #FD6E0A;
     border-radius: 5px;
+    width: 100px;
+    height: 60px;
 }
