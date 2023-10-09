@@ -5,3 +5,16 @@ nav {
     display: flex;
     
 }
+ .nav-title {
+    color: var(--Dark-01, #181818);
+font-size: 45px;
+font-weight: 800;
+
+}
+.text-orange{
+    color: #FD6E0A;
+}
+nav > ul{
+    display: flex;
+
+}
