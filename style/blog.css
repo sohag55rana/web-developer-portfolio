@@ -46,4 +46,10 @@ nav a {
 }
 .banner{
    padding: 30px 30px 30px 150px;
+   display: flex;
+   align-items: center;
+}
+.banner .banner-pic{
+    width: 500px; 
+
 }
