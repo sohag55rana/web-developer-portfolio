@@ -1,8 +1,12 @@
 body{
     font-family: 'Open Sans', sans-serif;
+    font-family: 'lato', sans-serif;
+
 }
 nav {
     display: flex;
+    justify-content: space-between;
+    
     
 }
  .nav-title {
@@ -16,6 +20,7 @@ font-weight: 800;
 }
 nav > ul{
     display: flex;
+    align-items: center;
 
 }
 nav li {
@@ -29,6 +34,9 @@ nav a {
 .btn-orange{
     background-color: #FD6E0A;
     border-radius: 5px;
-    width: 100px;
-    height: 60px;
+    border: 0px;
+    padding: 18px 35px 19px 36px;
+    color: var(--White-Color, #FFF);
+    font-size: 20px;
+    font-weight: 700;
 }
