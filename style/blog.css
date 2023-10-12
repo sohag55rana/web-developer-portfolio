@@ -111,6 +111,9 @@ nav a {
     line-height: 30px; /* 166.667% */
     /* padding: 209px 157px 221px 156px; */
 }
+#what-i-do{
+    padding: 30px 115px;
+}
 .about{
     border-radius: 10px;
     background: #FFF8F3;
