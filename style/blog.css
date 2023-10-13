@@ -148,20 +148,30 @@ main{
     font-weight: 400;
     line-height: 10px;
 }
-.skill-info{
-    display: flex;
-}
 .skill-knowledge{
-    justify-content: space-between;
-    margin: 24px;
     padding: 30px;
+    border-radius: 5px;
+    background: #FFF;
+    box-shadow: 0px 6px 50px 0px rgba(0, 0, 0, 0.06);
 }
+    
+   
+.skill-info{
+    
+    display: flex;
+    gap: 24px;
+    
+    
+}
+
 
 .skill-para{
     color: #757575;
     font-size: 16px;
     font-weight: 400;
+    /* padding: 33px; */
     line-height: 28px; /* 175% */
+
 }
 .skill-head{
     color: #181818;
