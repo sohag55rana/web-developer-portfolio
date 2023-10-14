@@ -178,3 +178,62 @@ main{
     font-size: 20px;
     font-weight: 700;
 }
+/* summary here. */
+.summary-main-title{
+    margin-top: 130px;
+    color: #181818;
+    text-align: center;
+    font-size: 35px;
+    font-weight: 700;
+}
+.summary-title{
+    color: #474747;
+    font-size: 30px;
+    font-weight: 700;
+    margin-top: 113px;
+}
+.summary-container{
+    display: flex;
+    
+}
+
+
+hr{
+    width: 558px;
+    height: 1px;
+    background: #D1D1D1;
+    margin-right: 24px;
+    margin: 30px 24px 30px 0px;
+}
+.summary-item-title{
+    color:#474747;
+    font-size: 25px;
+    font-weight: 700;
+    margin-bottom: 10px;                                                                                                                                                        
+}
+.summary-item-institute{
+    color:#757575;
+    font-size: 20px;
+    font-weight: 600;
+    margin-bottom: 20px;
+}
+.summary-item-description{
+    color:#757575;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 28px; /* 175% */
+    margin-right: 130px;
+}
+.Download-CV{
+    text-align: center;
+    margin-top: 50px;
+
+}
+/* footer-contact */
+.contact-container{
+    width: 1600px;
+    height: 780px;
+    flex-shrink: 0;
+    background: #FFF8F3;
+    margin: 132px;
+}
